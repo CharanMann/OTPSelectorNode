@@ -13,8 +13,6 @@
  * Header, with the fields enclosed by brackets [] replaced by your own identifying
  * information: "Portions copyright [year] [name of copyright owner]".
  *
- * Portions Copyrighted 2017 Charan Mann
- *
  * otpSelectorNode: Created by Charan Mann on 12/7/17 , 11:48 AM.
  */
 

@@ -13,7 +13,6 @@
  * Header, with the fields enclosed by brackets [] replaced by your own identifying
  * information: "Portions copyright [year] [name of copyright owner]".
  *
- * Portions Copyrighted 2017 Charan Mann
  *
  * otpSelectorNode: Created by Charan Mann on 12/7/17 , 11:48 AM.
  */
@@ -40,10 +39,7 @@ import static org.forgerock.openam.auth.node.api.Action.send;
 
 
 /**
- * A node that represents choices to the user and collects the chosen one.
- * <p>
- * <p>Choices are configured as a set of values and a default choice can also be configured.
- * Multiple selection of choices are not supported</p>
+ * An authentication decision node which prompts with a choice to select OTP mode like Email, SMS etc
  */
 @Node.Metadata(outcomeProvider = OTPSelectorNode.ChoiceCollectorOutcomeProvider.class,
         configClass = OTPSelectorNode.Config.class)
