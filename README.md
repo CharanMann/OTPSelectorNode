@@ -29,7 +29,7 @@ AM Configuration:
 4. Create a new Authentication tree: otp 
 5. Add required nodes in this tree, include OTPSelector node
 <br/>
-![ScreenShot](./tree-otp.png)
+![OTP Tree](treeOTP.png)
 <br/> 
   
 Testing:
