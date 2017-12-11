@@ -27,10 +27,8 @@ AM Configuration:
 2. Copy the custom authentication node .jar file to WEB-INF/lib/ where AM is deployed. Refer instructions: *[Building and Installing Custom Authentication Modules](https://backstage.forgerock.com/docs/am/5.5/authentication-guide/#build-config-sample-auth-module)*
 3. Restart the web container to pick up the new node. The node will then appear in the authentication trees components palette.
 4. Create a new Authentication tree: otp 
-5. Add required nodes in this tree, include OTPSelector node
-<br/>
-![OTP Tree](treeOTP.png)
-<br/> 
+5. Add required nodes in this tree, include OTPSelector node ![OTP Tree](./treeOTP.png)
+ 
   
 Testing:
 ======== 
