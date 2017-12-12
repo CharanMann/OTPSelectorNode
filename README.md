@@ -1,4 +1,4 @@
-* This repo has been migrated to ForgeRock Marketplace: https://backstage.forgerock.com/marketplace/api/catalog/entries/AWBG4d-0T81PD1YoP5o1 
+* This repo has now been migrated to ForgeRock Marketplace, please refer below link for latest code and documentation: https://backstage.forgerock.com/marketplace/api/catalog/entries/AWBG4d-0T81PD1YoP5o1 
 
 # OTPSelectorNode
 
